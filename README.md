@@ -26,7 +26,7 @@ Pre-compiled version
 
 Binaries can be found in Binary folder.
 
-Or you can download it directly from official web-site: http://light-alloy.ru, but there you will find only modern Light Alloy, not classic one which is present here.
+Or you can download it directly from official web-site: http://light-alloy.ru, but there you will find only the modern Light Alloy, not the classic one which is present here.
 
 How to compile
 --------------
