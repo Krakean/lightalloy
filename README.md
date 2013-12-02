@@ -44,3 +44,10 @@ What's the point?
 -----------------
 
 There are a lot of open source media players for Windows. But mostly all of them are written in C++, and there is just no any decent, robust, features-complete, and mostly bugs-free media player written in Delphi released under open source.
+
+Contact information
+-------------------
+
+E-mail: vortex at light-alloy.ru
+Skype : internat1onale (for those who prefer IM kind of messaging)
+Forum : http://www.light-alloy.ru/forum/ru_light_alloy_source_code/ (post in English or Russian, please)
