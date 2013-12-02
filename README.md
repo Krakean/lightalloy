@@ -48,6 +48,6 @@ There are a lot of open source media players for Windows. But mostly all of them
 Contact information
 -------------------
 
-E-mail: vortex at light-alloy.ru
-Skype : internat1onale (for those who prefer IM kind of messaging)
-Forum : http://www.light-alloy.ru/forum/ru_light_alloy_source_code/ (post in English or Russian, please)
+E-mail : vortex at light-alloy.ru
+Skype  : internat1onale (for those who prefer IM kind of messaging)
+Forum  : http://www.light-alloy.ru/forum/ru_light_alloy_source_code/ (post in English or Russian, please)
