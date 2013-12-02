@@ -1,0 +1,56 @@
+
+	Already supported container formats and associable file extensions
+
+---------------------------------------------------------------------------------------------------------
+formats FCC	extensions				description
+-----------	-------------------------		-----------
+AAC		.aac					Advanced Audio Coding
+AC3		.ac3					Dolby AC3 Sound
+AIFC		.aifc					Apple Audio
+AIFF		.aif .aiff .snd				Apple Audio
+APE		.ape					Monkey’s Audio	
+ASF		.asf .wm .wmv .wma			Advanced Streaming Format
+AT3		.at3 .oma				Adaptive Transform Acoustic Coding
+AU		.au					Sun Audio
+AVI		.avi .divx				Audio-Video Interleaved	
+CDA		.cda					CD Audio
+CDXA		.cdxa					CD Video
+FLAC		.flac					Free Lossless Audio Codec
+FLIC		.fli .flc				Autodesk Animator format
+FLV		.flv					Flash Video
+IFO		.ifo					DVD Index File
+IT		.it					Impulse Tracker Module
+MIDI		.mid .midi .kar	.rmi			Musical Interface Digital Instruments /Karaoke (MIDI)
+MKV		.mkv .mka				Matroska video / Matroska audio
+MOD		.mod					Tracker Module
+MP3		.mpa .mp1 .mp2 .mp3			Audio MPEG1 Layer-3		
+MP4		.mp4 .m4v .m4a .m4b .3gp(+other ext)  	MPEG-4 / Third Generation Platform
+MPC		.mpc					Musepack
+MPG1		.mpg .mpeg .mpe .mpv .m1v .dat		Moving Picture Experts Group / MPEG movie on VCD or SVCD
+MPG2		.mpg .mpeg .mpe .mpv .m2v .vob .mp2v	Moving Picture Experts Group / DVD Video Object
+MTS		.ts  .mts				MPEG transport stream
+OGG		.ogg .oga				Ogg Audio
+OGM		.ogm .ogv .ogx 				Ogg Media
+QT		.qt  .mov				Quick Time Movie
+RLMD		.rm  .ram .rmvb .rv .ra			RealMedia
+S3M		.s3m					Scream Tracker Module
+TS		.ts					MPEG Transport Stream
+WAV		.wav .wave				Windows Wave PCM Audio		
+WEBM		.webm					WebM Container
+WVKP		.wv					WavePack Audio
+XM		.xm					Fast Tracker Module
+
+---------------------------------------------------------------------------------------------------------
+playlists	extensions				description
+---------	----------				-----------
+LAP		.lap					Light Alloy Playlist
+IFO 		.ifo					DVD Index File
+MPLS		.mpls					Blu-ray Movie Playlist File
+BDMV		.bdmv					Blu-ray Information File
+M3U		.m3u					WinAMP Advanced Playlist
+ASX		.asx					Advanced Streaming Index
+LST		.lst					Plain Files List
+PLS		.pls					WinAMP Playlist
+CUE		.cue					CUE Sheet
+
+---------------------------------------------------------------------------------------------------------

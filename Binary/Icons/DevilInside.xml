@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<ICONLIB>
+ <AUTHOR name="ReSide" ICQ="143096583" homepage="www.uobugs.ru" comments="ICon library for Light Alloy
+
+доработал MegaVolt
+ICQ: 212489823"/>
+ <ICONS>
+  <ICON id="0" ext="ASX"/>
+  <ICON id="1" ext="IFO"/>  
+  <ICON id="2" ext="LAP"/>
+  <ICON id="3" ext="LST"/>
+  <ICON id="4" ext="M3U"/>
+  <ICON id="5" ext="PLS"/>
+  <ICON id="6" ext="ASF"/>
+  <ICON id="7" ext="AVI"/>
+  <ICON id="8" ext="DAT"/>
+  <ICON id="9" ext="DIVX"/>
+  <ICON id="10" ext="m1v"/>
+  <ICON id="11" ext="m2v"/>
+  <ICON id="12" ext="MKV"/>
+  <ICON id="13" ext="MOV"/>
+  <ICON id="14" ext="mp4"/>
+  <ICON id="15" ext="mpe"/>
+  <ICON id="16" ext="mpeg"/>
+  <ICON id="17" ext="mpg"/>
+  <ICON id="18" ext="mpv"/>
+  <ICON id="19" ext="ogm"/>
+  <ICON id="20" ext="qt"/>
+  <ICON id="21" ext="ram"/>
+  <ICON id="22" ext="rm"/>
+  <ICON id="23" ext="rmvb"/>
+  <ICON id="24" ext="rv"/>
+  <ICON id="25" ext="vob"/>
+  <ICON id="26" ext="wm"/>
+  <ICON id="27" ext="wmv"/>
+  <ICON id="28" type="Video"/>
+  <ICON id="29" ext="ac3"/>
+  <ICON id="30" ext="aif"/>
+  <ICON id="31" ext="aifc"/>
+  <ICON id="32" ext="aiff"/>
+  <ICON id="33" ext="au"/>
+  <ICON id="34" ext="it"/>
+  <ICON id="35" ext="kar"/>
+  <ICON id="36" ext="mid"/>
+  <ICON id="37" ext="midi"/>
+  <ICON id="38" ext="mka"/>
+  <ICON id="39" ext="mod"/>
+  <ICON id="40" ext="mp1"/>
+  <ICON id="41" ext="mp2"/>
+  <ICON id="42" ext="mp3"/>
+  <ICON id="43" ext="mpa"/>
+  <ICON id="44" ext="ogg"/>
+  <ICON id="45" ext="ra"/>
+  <ICON id="46" ext="rmi"/>
+  <ICON id="47" ext="rma"/>
+  <ICON id="48" ext="s3m"/>
+  <ICON id="49" ext="snd"/>
+  <ICON id="50" ext="stm"/>
+  <ICON id="51" ext="wav"/>
+  <ICON id="52" ext="wma"/>
+  <ICON id="53" ext="xm"/>
+  <ICON id="54" type="Sound"/>
+  <ICON id="55" type="PlayList"/>
+  <ICON id="56" ext="3gp"/>
+  <ICON id="57" ext="flv"/>
+  <ICON id="58" ext="mpc"/>
+  <ICON id="59" ext="aac"/>
+  <ICON id="60" ext="ape"/>
+  <ICON id="61" ext="flac"/>
+  <ICON id="62" ext="oma"/>
+  <ICON id="63" ext="cda"/>
+  <ICON id="64" ext="at3"/>
+  <ICON id="65" ext="cue"/>
+  <ICON id="66" ext="ts"/>
+ </ICONS>
+</ICONLIB>

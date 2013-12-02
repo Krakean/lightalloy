@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<ICONLIB>
+ <AUTHOR name="Andrey" ICQ="" email="" homepage="" comments="доработал MegaVolt
+ICQ: 212489823
+Содержит иконки 
+размером 
+48x48/32x32/16x16, 
+цвет - только 32бит."/>
+ <ICONS>
+  <ICON id="0" ext="ASF"/>
+  <ICON id="1" ext="ASX"/>
+  <ICON id="2" ext="AVI,DIVX"/>
+  <ICON id="3" ext="AY,AYM,STC,VTX,YM,PT1,PT2,PT3,FLS,SQT,FXM,GTR,ZXS,FTC,STP,PSC,PSG,ZXAY,ZX50"/>
+  <ICON id="4" ext="IFO"/>
+  <ICON id="5" ext="KAR"/>
+  <ICON id="6" ext="LAP"/>
+  <ICON id="7" ext="LST"/>
+  <ICON id="8" ext="M3U"/>
+  <ICON id="9" ext="MIDI,MID,RMI"/>
+  <ICON id="10" ext="MKA"/>
+  <ICON id="11" ext="MKV"/>
+  <ICON id="12" ext="MOD,669,IT"/>
+  <ICON id="13" ext="MOV,QT"/>
+  <ICON id="14" ext="MP3"/>
+  <ICON id="15" ext="MPG,MPEG,MPE,M1V,M2V,MPV,DAT"/>
+  <ICON id="16" ext="OGG"/>
+  <ICON id="17" ext="OGM"/>
+  <ICON id="18" ext="PLS"/>
+  <ICON id="19" ext="RA,RAM"/>
+  <ICON id="20" ext="RM,RV,RMVB"/>
+  <ICON id="21" ext="STM,S3M"/>
+  <ICON id="22" ext="VOB"/>
+  <ICON id="23" ext="WAV"/>
+  <ICON id="24" ext="WMA"/>
+  <ICON id="25" ext="WM,WMV"/>
+  <ICON id="26" ext="WPL"/>
+  <ICON id="27" ext="XM"/>
+  <ICON id="28" ext="AC3"/>
+  <ICON id="29" type="Sound"/>
+  <ICON id="30" type="PlayList"/>
+  <ICON id="31" type="Video"/>
+  <ICON id="32" ext="AIF,AIFF,AIFC"/>
+  <ICON id="33" ext="3GP"/>
+  <ICON id="34" ext="AU,SND"/>
+  <ICON id="35" ext="MPA,MP1,MP2"/>
+  <ICON id="36" ext="MP4"/>
+  <ICON id="37" ext="FLV"/>
+  <ICON id="38" ext="MPC"/>
+  <ICON id="39" ext="AAC"/>
+  <ICON id="40" ext="APE"/>
+  <ICON id="41" ext="FLAC"/>
+  <ICON id="42" ext="AT3"/>
+  <ICON id="43" ext="OMA"/>
+  <ICON id="44" ext="CDA"/>
+  <ICON id="45" ext="TS"/>
+  <ICON id="46" ext="CUE"/>
+  <ICON id="47" ext="WEBM"/>
+  <ICON id="48" ext="MTS,M2TS"/>
+  <ICON id="49" ext="M4A"/>
+ </ICONS>
+</ICONLIB>

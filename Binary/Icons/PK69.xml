@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<ICONLIB>
+ <AUTHOR name="Pavel Kiselev" email="pk69com@gmail.com" homepage="pk69.com" comments=""/>
+ <ICONS>
+  <ICON id="0" ext="LA"/>
+  <ICON id="0" type="PlayList"/>
+  <ICON id="0" ext="M3U"/>
+  <ICON id="0" ext="IFO"/>
+  <ICON id="0" ext="ASX, WPL"/>
+  <ICON id="0" ext="LAP"/>
+  <ICON id="0" type="Video"/>
+  <ICON id="0" ext="MPG,MPEG,MPE,M1V,M2V,MPV"/>
+  <ICON id="0" ext="VOB"/>
+  <ICON id="0" ext="ASF"/>
+  <ICON id="0" ext="WM,WMV"/>
+  <ICON id="0" ext="AVI,DIV,DIVX"/>
+  <ICON id="0" ext="OGM"/>
+  <ICON id="0" ext="MKV"/>
+  <ICON id="0" ext="RM,RV"/>
+  <ICON id="0" ext="MOV,QT"/>
+  <ICON id="0" type="Sound"/>
+  <ICON id="0" ext="MP3,MP2,MP1,MPA"/>
+  <ICON id="0" ext="WMA"/>
+  <ICON id="0" ext="WAV"/>
+  <ICON id="0" ext="OGG"/>
+  <ICON id="0" ext="MKA"/>
+  <ICON id="0" ext="RA,RAM"/>
+  <ICON id="0" ext="AIF,AIFF,AIFC"/>
+  <ICON id="0" ext="XM,IT"/>
+  <ICON id="0" ext="MID,MIDI,RMI"/>
+  <ICON id="0" ext="AY"/>
+  <ICON id="0" ext="S3M,STM"/>
+  <ICON id="0" ext="MOD"/>
+ </ICONS>
+</ICONLIB>

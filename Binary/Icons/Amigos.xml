@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<ICONLIB>
+ <AUTHOR name="Amigos" email="Solitex@mail.ru" homepage="?" comments=""/>
+ <ICONS>
+  <ICON id="0" ext="LA"/>
+  <ICON id="1" type="PlayList"/>
+  <ICON id="2" ext="M3U"/>
+  <ICON id="3" ext="IFO"/>
+  <ICON id="4" ext="ASX, WPL"/>
+  <ICON id="5" ext="LAP"/>
+  <ICON id="6" type="Video"/>
+  <ICON id="7" ext="MPG,MPEG,MPE,M1V,M2V,MPV"/>
+  <ICON id="8" ext="VOB"/>
+  <ICON id="9" ext="ASF"/>
+  <ICON id="10" ext="WM,WMV"/>
+  <ICON id="11" ext="AVI,DIV,DIVX"/>
+  <ICON id="12" ext="OGM"/>
+  <ICON id="13" ext="MKV"/>
+  <ICON id="14" ext="RM,RV"/>
+  <ICON id="16" ext="MOV,QT"/>
+  <ICON id="17" type="Sound"/>
+  <ICON id="18" ext="MP3,MP2,MP1,MPA"/>
+  <ICON id="20" ext="WMA"/>
+  <ICON id="21" ext="WAV"/>
+  <ICON id="22" ext="OGG"/>
+  <ICON id="23" ext="MKA"/>
+  <ICON id="24" ext="RA,RAM"/>
+  <ICON id="25" ext="AIF,AIFF,AIFC"/>
+  <ICON id="26" ext="XM,IT"/>
+  <ICON id="27" ext="MID,MIDI,RMI"/>
+  <ICON id="28" ext="AY"/>
+  <ICON id="29" ext="S3M,STM"/>
+  <ICON id="30" ext="MOD"/>
+  <ICON id="31" ext="FLV"/>
+  <ICON id="32" ext="3GP"/>
+  <ICON id="33" ext="MP4"/>
+ </ICONS>
+</ICONLIB>

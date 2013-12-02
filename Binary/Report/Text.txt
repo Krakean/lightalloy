@@ -1,0 +1,13 @@
+*.txt
+Light Alloy report
+---------------------------------------------------------------
+%EntryStart%
+File:%FileName% 
+Size:%SizeMb%
+Format:%FileFormat%
+Duration:%Duration%
+Title:%Artist% - %Title%
+Video:%VideoCodec%, %VideoWidth%x%VideoHeight% (%VideoAspectRatio%) %VideoFPS%
+Audio:%AudioCodec%, %AudioFormat%, %AudioBitRate%
+%EntryEnd%---------------------------------------------------------------
+End of Report

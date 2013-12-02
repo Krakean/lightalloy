@@ -1,0 +1,39 @@
+*.htm;*.html
+<HTML>
+ <HEAD>
+  <TITLE>Light Alloy report</TITLE>
+  <STYLE TYPE="text/css">
+  <!--
+BODY { background-color: white; font-family: Tahoma, Verdana, Arial, Helvetica; color: black}
+TD {font-size: 8pt}
+TH {font-size: 9pt}
+  -->
+  </STYLE>
+ </HEAD>
+<BODY>
+<TABLE cellspacing="1" cellpadding="3" bgcolor="gray" align="center" width="95%">
+ <TR bgcolor="#CCCCCC">
+  <TH>No</TH>
+  <TH>File</TH>
+  <TH>Duration</TH>
+  <TH>Artist / Title</TH>
+  <TH>Video</TH>
+  <TH>Audio</TH>
+  <TH>File Size</TH>
+ </TR>
+%EntryStart%
+ <TR bgcolor="%CellColor%">
+  <TD bgcolor="#CCCCCC">%No%</TD>
+  <TD>%FileName% (%FileFormat%) MT:(%MediaType%)</TD>
+  <TD>%VideoDurationText% (%VideoDuration%)</TD>
+  <TD>%Artist% / %Title%</TD>
+  <TD>%VideoCodec%, %VideoWidth%x%VideoHeight% (%VideoAspectRatio%) %VideoFPS% VBR:(%VideoBitRate%)</TD>
+  <TD>%AudioCodec% (%AudioCodecDesc%), %AudioFormat%, %AudioBitRate% ASC:(%AudioStreamsCount%), AD:(%AudioDuration%), ADT:(%AudioDurationText%)</TD>
+  <TD>%Size%</TD>
+ </TR>
+%EntryEnd%
+TD: %TotalDuration%; TS: %TotalSize%; TFN: %TotalFilesNumber%; UD: %LastUpdate%
+</TABLE>
+<p><font color="red" size="4">Generated with Light Alloy v%LAVersion%</font>
+</BODY>
+</HTML>

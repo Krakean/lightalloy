@@ -1,0 +1,5 @@
+*.csv
+"Название";"Продолжительность";"Размер";
+%EntryStart%"%Title%";"%DurationText%";"%SizeMb%";
+%EntryEnd%
+"Report by LA";

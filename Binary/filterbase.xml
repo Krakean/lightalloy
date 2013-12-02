@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<FILTERBASE app="LightAlloy">
+ <AUDIOSPLITTERS Count="14">
+  <filter fcc="/MP3/AAC/APE/FLAC/OGG/MOD/XM/S3M/ShoutCast/" name="DC-Bass Source" files="/DCBassSource.ax/bass.dll/bass_aac.dll/bass_alac.dll/bass_ape.dll/bass_flac.dll/bass_tta.dll/bass_wv.dll/" clsid="{ABE7B1D9-4B3E-4ACD-A0D1-92611D3A4492}" priority="0"/>
+  <filter fcc="/MP3/AAC/APE/FLAC/OGG/MOD/XM/S3M/ShoutCast/" name="DC-Bass Source" files="DCBassSourceMod.ax" clsid="{ABE7B1D9-4B3E-4ACD-A0D1-92611D3A4492}" priority="0"/>
+  <filter fcc="/MP2/MP3/" name="MP3 Parser Filter" files="mp3parse.ax" clsid="{13CEBFE0-256B-44BA-A27B-9F85CBDB972D}" priority="0"/>
+  <filter fcc="/FLAC/OGG/AAC/AC3/AT3/AIFF/AIFC/" name="LAV Splitter" files="/LAVSplitter.ax/LAVAudio.ax/LAVVideo.ax/avcodec-lav-54.dll/avfilter-lav-3.dll/avformat-lav-54.dll/avresample-lav-0.dll/avutil-lav-51.dll/libbluray.dll/swscale-lav-2.dll/" clsid="{B98D13E7-55DB-4385-A33D-09FD1BA26338}" priority="0"/>
+  <filter fcc="/FLAC/" name="madFlac Source" files="madFlac.ax" clsid="{C52908F0-1C06-4C0D-A4CD-3D10EA51C757}" priority="0"/>
+  <filter fcc="/MPC/" name="MONOGRAM Musepack Splitter" files="mmmpcdmx.ax" clsid="{C3E2E983-0198-4F73-9E5C-8365BB4C4131}" priority="0"/>
+  <filter fcc="/AC3/" name="AC3File" files="ac3file.ax" clsid="{F7380D4C-DE45-4F03-9209-15EBA8552463}" priority="0"/>
+  <filter fcc="/WAV/" name="Wave Parser" files="quartz.dll" clsid="{D51BD5A1-7548-11CF-A520-0080C77EF58A}" priority="0"/>
+  <filter fcc="/CDA/" name="CDDA Reader" files="cddareader.ax" clsid="{54A35221-2C8D-4A31-A5DF-6D809847E393}" priority="0"/>
+  <filter fcc="/CDA/" name="BTCDAKReader" files="BTCDAKReader.ax" clsid="{2527BF5E-EC96-4B43-BDFB-6326DDF3CE36}" priority="0"/>
+  <filter fcc="/OGG/OGM/" name="Ogg Splitter" files="oggds.dll" clsid="{F07E245F-5A1F-4D1E-8BFF-DC31D84A55AB}" priority="0"/>
+  <filter fcc="/DTS/AC3/DD+/" name="DTS/AC3/DD+ Source" files="dtsac3source.ax" clsid="{B4A7BE85-551D-4594-BDC7-832B09185041}" priority="0"/>
+  <filter fcc="/DSM/" name="DSM Source" files="DSMSplitter.ax" clsid="{803E8280-F3CE-4201-982C-8CD8FB512004}" priority="0"/>
+  <filter fcc="/MOD/XM/IT/" name="File Source (MO3/XM/IT)" files="MODSource.ax" clsid="{C5C8E44B-19D1-4AAD-91C5-4903867F71DA}" priority="0"/>
+ </AUDIOSPLITTERS>
+ <VIDEOSPLITTERS Count="21">
+  <filter fcc="/AVI/MKV/MP4/FLV/WMV/TS/RM/RLMD/ASF/QT/MPG1/MPG2/WEBM/MTS/" name="LAV Splitter" files="/LAVSplitter.ax/LAVAudio.ax/LAVVideo.ax/avcodec-lav-54.dll/avfilter-lav-3.dll/avformat-lav-54.dll/avresample-lav-0.dll/avutil-lav-51.dll/libbluray.dll/swscale-lav-2.dll/" clsid="{B98D13E7-55DB-4385-A33D-09FD1BA26338}" priority="0"/>
+  <filter fcc="/AVI/" name="AVI Splitter" files="AviSplitter.ax" clsid="{CEA8DEFF-0AF7-4DB9-9A38-FB3C3AEFC0DE}" priority="0"/>
+  <filter fcc="/AVI/" name="AVI Splitter" files="quartz.dll" clsid="{1B544C20-FD0B-11CE-8C63-00AA0044B51E}" priority="0"/>
+  <filter fcc="/MTS/TS/MPG1/MPG2/" name="Mpeg Splitter" files="MpegSplitter.ax" clsid="{1365BE7A-C86A-473C-9A41-C0A6E82C9FA3}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/" name="MPEG-2 Splitter" files="mpg2splt.ax" clsid="{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/" name="MPEG-2 Demultiplexer" files="mpg2splt.ax" clsid="{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/CDXA/" name="Ligos MPEG Splitter" files="lmpgspl.ax" clsid="{CB51EFC1-40D6-11D3-B265-00A0C9A3A56F}" priority="0"/>
+  <filter fcc="/CDXA/" name="CDXA Reader" files="cdxareader.ax" clsid="{D367878E-F3B8-4235-A968-F378EF1B9A44}" priority="0"/>
+  <filter fcc="/MPG1/CDXA/" name="MPEG-I Stream Splitter" files="quartz.dll" clsid="{336475D0-942A-11CE-A870-00AA002FEAB5}" priority="0"/>
+  <filter fcc="/3GP/3G2/" name="ArcSoft 3GP Splitter" files="3GPSplitter.ax" clsid="{F710DD5E-3ED7-442F-BA31-4BD2DF7F4366}" priority="0"/>
+  <filter fcc="/DRC/" name="Dirac Source" files="DiracSplitter.ax" clsid="{09E7F58E-71A1-419D-B0A0-E524AE1454A9}" priority="0"/>
+  <filter fcc="/OGG/OGM/" name="Ogg Splitter" files="OggSplitter.ax" clsid="{6D3688CE-3E9D-42F4-92CA-8A11119D25CD}" priority="0"/>
+  <filter fcc="/RM/RLMD/" name="RealMedia Splitter" files="RealMediaSplitter.ax" clsid="{E21BE468-5C18-43EB-B0CC-DB93A847D769}" priority="0"/>
+  <filter fcc="/ROQ/" name="RoQ Source" files="RoQSplitter.ax" clsid="{02B8E5C2-4E1F-45D3-9A8E-B8F1EDE6DE09}" priority="0"/>
+  <filter fcc="/MKV/MKA/" name="Matroska Source" files="MatroskaSplitter.ax" clsid="{0A68C3B5-9164-4A54-AFAF-995B2FF0E0D4}" priority="0"/>
+  <filter fcc="/MP4/QT/" name="MP4 Splitter" files="MP4Splitter.ax" clsid="{3CCC052E-BDEE-408A-BEA7-90914EF2964B}" priority="0"/>
+  <filter fcc="/MKV/MKA/AVI/QT/MP4/TS/WEBM/" name="Haali Media Splitter" files="splitter.ax" clsid="{55DA30FC-F16B-49FC-BAA5-AE59FC65F82D}" priority="0"/>
+  <filter fcc="/QT/" name="QuickTime Movie Parser" files="quartz.dll" clsid="{D51BD5A0-7548-11CF-A520-0080C77EF58A}" priority="0"/>
+  <filter fcc="/FLV/" name="FLV Splitter" files="FLVSplitter.ax" clsid="{C9ECE7B3-1D8E-41F5-9F24-B255DF16C087}" priority="0"/>
+  <filter fcc="/FLIC/" name="FLICSource" files="flicsource.ax" clsid="{17DB5CF6-39BB-4D5B-B0AA-BEBA44673AD4}" priority="0"/>
+  <filter fcc="/ASF/" name="WM ASF Reader" files="qasf.dll" clsid="{187463A0-5BB7-11D3-ACBE-0080C75E246E}" priority="0"/>
+ </VIDEOSPLITTERS>
+ <AUDIODECODERS Count="13">
+  <filter fcc="/2000/2001/" name="AC3Filter" files="ac3filter.ax" clsid="{A753A1EC-973E-4718-AF8E-A3F554D45C44}" priority="0"/>
+  <filter fcc="/ANY/" name="LAV Audio Decoder" files="/LAVAudio.ax/LAVVideo.ax/LAVSplitter.ax/avcodec-lav-54.dll/avfilter-lav-3.dll/avformat-lav-54.dll/avresample-lav-0.dll/avutil-lav-51.dll/libbluray.dll/swscale-lav-2.dll/" clsid="{E8E73B6B-4CB3-44A4-BE99-4F7BCB96E491}" priority="0"/>
+  <filter fcc="/2000/2001/" name="Cyberlink Audio Decoder" files="claud.ax" clsid="{9BC1B780-85E3-11D2-98D0-0080C84E9C39}" priority="0"/>
+  <filter fcc="/2000/2001/" name="InterVideo Audio Decoder" files="iviaudio.ax" clsid="{7E2E0DC1-31FD-11D2-9C21-00104B3801F6}" priority="0"/>
+  <filter fcc="/00FF/01FF/" name="MONOGRAM AAC Decoder" files="mmaacd.ax" clsid="{3FC3DBBF-9D37-4CE0-8689-653FE8BAB9B3}" priority="0"/>
+  <filter fcc="/0075/" name="Voxware MetaSound Codec" files="voxmsdec.ax" clsid="{73F7A062-8829-11D1-B550-006097242D8D}" priority="0"/>
+  <filter fcc="/674F/676F/6750/6770/6751/6771/" name="Vorbis Decoder" files="OggDS.dll" clsid="{02391F44-2767-4E6A-A484-9B47B506F3A4}" priority="0"/>
+  <filter fcc="/0270/" name="OMG TRANSFORM" files="omgtrans.ax" clsid="{98660581-C9A8-4C92-B480-F27DE3C3AAB4}" priority="0"/>
+  <filter fcc="/EACC/" name="MONOGRAM Musepack Decoder" files="mmmpcdec.ax" clsid="{555C4774-101E-49D7-8EEC-B9B87F8E1905}" priority="0"/>
+  <filter fcc="/0161/0162/0163/" name="WMAudio Decoder DMO" files="qasf.dll" clsid="{94297043-BD82-4DFD-B0DE-8177739C6D20}" priority="0"/>
+  <filter fcc="/ANY/" name="ffdshow Audio Decoder" files="ffdshow.ax" clsid="{0F40E1E5-4F79-4988-B1A9-CC98794E6B55}" priority="0"/>
+  <filter fcc="/ANY/" name="MPC - MPA Decoder Filter" files="MpaDecFilter.ax" clsid="{3D446B6F-71DE-4437-BE15-8CE47174340F}" priority="0"/>
+  <filter fcc="/0055/" name="Fraunhofer MPEG Layer-3 Audio Decoder" files="L3CODECX.1.9.AX" clsid="{38BE3000-DBF4-11D0-860E-00A024CFEF6D}" priority="0"/>
+ </AUDIODECODERS>
+ <VIDEODECODERS Count="28">
+  <filter fcc="/H264/X264/AVC1/CCV1/MPG1/MPG2/MJPG/WVC1/WMVA/WMV1/WMV2/WMV3/VP80'+'/XVID/DIVX/DX50/MP4V/M4S2/MP4S/FMP4/MPG4/MP41/DIV1/MP42/DIV2/MP43/DIV3/MPG3/DIV4/DIV5/DIV6/DVX3/FLV1/VP60/VP61/VP62/VP6A/VP6F/RV10/RV20/RV30/RV40/DVSD/CDVH/DV25/DV50/DVCP/SVQ1/SVQ3/H261/H263/S263/THEO/TSCC/IV50/IV31/IV32/FPS1/HFYU/LAGS/CVID/VP30/VP31'+'/CSCD/QPEG/MSZH/ZLIB/BIKI/BIKB/SMK2/SMK4/" name="LAV Video Decoder" files="/LAVVideo.ax/LAVAudio.ax/LAVSplitter.ax/avcodec-lav-54.dll/avfilter-lav-3.dll/avformat-lav-54.dll/avresample-lav-0.dll/avutil-lav-51.dll/libbluray.dll/swscale-lav-2.dll/" clsid="{EE30215D-164F-4A92-A4EB-9D4C13390F9F}" priority="0"/>
+  <filter fcc="/DIVX/DVX1/DIV3/DIV4/DIV5/DX50/DIV6/" name="DivX Decoder" files="divxdec.ax" clsid="{78766964-0000-0010-8000-00AA00389B71}" priority="0"/>
+  <filter fcc="/DIV1/DIV2/DIV3/MP4S/" name="DivX MPEG-4 DVD Video Decompressor" files="DivX_c32.ax" clsid="{82CCD3E0-F71A-11D0-9FE5-00609778AAAA}" priority="0"/>
+  <filter fcc="/FLV1/FLV4/VP62/" name="FLV Video Decoder" files="FLVSplitter.ax" clsid="{7CEEEECF-3FEE-4548-B529-C254CAF4D182}" priority="0"/>
+  <filter fcc="/IV50/" name="Intel Video Decoder 5.0" files="ir50_32.dll" clsid="{30355649-0000-0010-8000-00AA00389B71}" priority="0"/>
+  <filter fcc="/IV41/" name="Intel Video Decoder 4.1" files="ir41_32.ax" clsid="{31345649-0000-0010-8000-00AA00389B71}" priority="0"/>
+  <filter fcc="/COL1/" name="MPEG-4 Video Decompressor" files="ool1c32.ax" clsid="{058C4840-3D73-11D4-8C05-006067438E34}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/" name="Cyberlink Video Decoder" files="clvsd.ax" clsid="{9BC1B781-85E3-11D2-98D0-0080C84E9C39}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/" name="Cyberlink Video Decoder" files="clvsd.ax" clsid="{516F1EFA-42F4-436E-801C-B752EB9343EB}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/" name="DScaler Mpeg2 Video Decoder" files="MpegVideo.dll" clsid="{F8904F1F-0371-4471-8866-90E6281ABDB6}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/" name="MPV Decoder Filter" files="Mpeg2DecFilter.ax" clsid="{39F498AF-1A09-4275-B193-673B0BA3D478}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/" name="Elecard MPEG2 Video Decoder" files="mpgdec.ax" clsid="{F50B3F13-19C4-11CF-AA9A-02608C9BABA2}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/" name="Ligos MPEG Video Decoder" files="lmpgvd.ax" clsid="{CB51EFC2-40D6-11D3-B265-00A0C9A3A56F}" priority="0"/>
+  <filter fcc="/MPG2/" name="InterVideo Video Decoder" files="ivivideo.ax" clsid="{0246CA20-776D-11D2-8010-00104B9B8592}" priority="0"/>
+  <filter fcc="/MPG2/" name="MPEG Video Decoder" files="quartz.dll" clsid="{FEB50740-7BEF-11CE-9BD9-0000E202599C}" priority="0"/>
+  <filter fcc="/RV20/RV30/RV40/RV41/" name="RealMediaSplitter" files="RealMediaSplitter.ax" clsid="{238D0F23-5DC9-45A6-9BE2-666160C324DD}" priority="0"/>
+  <filter fcc="/MJPG/DMB1/" name="Morgan MJPEG Decompressor" files="m3jpegdec.ax" clsid="{6988B440-8352-11D3-9BDA-CA86737C7168}" priority="0"/>
+  <filter fcc="/AVC1/H264/X264/VSSH/CCV1/" name="CoreAVC Video Decoder" files="coreavcdecoder.ax" clsid="{09571A4B-F1FE-4C60-9760-DE6D310C7C31}" priority="0"/>
+  <filter fcc="/VCRD/" name="Dirac Video Decoder" files="DiracSplitter.ax" clsid="{F78CF248-180E-4713-B107-B13F7B5C31E1}" priority="0"/>
+  <filter fcc="/TM20/" name="TrueMotion 2.0 Decompressor" files="tm20dec.ax" clsid="{4CB63E61-C611-11D0-83AA-000092900184}" priority="0"/>
+  <filter fcc="/ROQV/" name="RoQ Video Decoder" files="RoQSplitter.ax" clsid="{FBEFC5EC-ABA0-4E6C-ACA3-D05FDFEFB853}" priority="0"/>
+  <filter fcc="/VP60/VP61/VP62/" name="VP6 Decompressor" files="vp6dec.ax" clsid="{01CFC007-C263-420A-80DC-2988DA4C6105}" priority="0"/>
+  <filter fcc="/VP70/VP71/" name="VP7 Decompressor" files="vp7dec.ax" clsid="{C204438D-6E1A-4309-B09C-0C0F749863AF}" priority="0"/>
+  <filter fcc="/AVC1/WVC1/XVID/FLV1/FLV4/DIVX/DIV3/DIV4/DX50/DIV6/H264/H263/CCV1'+'/MP43/MP42/MP41/MP4V/MP4S/SEDG/MPG2/WMV1/WMV2/WMV3/WVC1/VP50/VP60/VP61/VP62/VP6F/HFYU/3IV2/3IVX/MPG1/MPG2/MPEG/EM2V/MMES/VP31/TSCC/CRAM/AVRN/FPS1/WMVP/WVP2/MJPG/MJPA/AMVV/SP5X/DVSD/DV25/DV50/CDVC/CDV5/DVIS/PDVC/YV12/IYUV/YUY2/UYVY/JPEG/" name="ffdshow Video Decoder" files="ffdshow.ax" clsid="{04FE9017-F873-410E-871E-AB91661A4EF7}" priority="0"/>
+  <filter fcc="/FLV1/FLV4/VP6F/VP50/VP60/VP61/VP62/VP6A/VP80/XVID/XVIX/DX50/DIVX'+'/WMV1/WMV2/WMV3/MPEG2/DIV3/DVX3/DIV4/DIV5/DIV6/MP43/COL1/AP41/MPG3/DIV2/MP42/MPG4/DIV1/MP41/AMVV/H264/X264/VSSH/DAVC/PAVC/AVC1/SVQ3/SVQ1/H263/S263/RV10/RV20/RV30/RV40/THEO/WVC1/MP4V/M4S2/MP4S/3IV1/3IV2/3IVX/BLZ0/DM4V/FFDS/FVFW/DXGM/FMP4/HDX4/LMP4/" name="MPC - Video decoder" files="MPCVideoDec.ax" clsid="{008BAC12-FBAF-497B-9670-BC6F6FBAE2C4}" priority="0"/>
+  <filter fcc="/MPG1/MPG2/DVSD/H264/X264/AVC1/WMV3/WMVA/WVC1/XVID/DIVX/DX50/MP4V/FLV1/S263/" name="ArcSoft Video Decoder" files="asvid.ax" clsid="{B793E9A8-C53E-4845-9DE9-C32326EACCAD}" priority="0"/>
+  <filter fcc="/MJPG/" name="MJPEG Decompressor" files="quartz.dll" clsid="{301056D0-6DFF-11D2-9EEB-006008039E37}" priority="0"/>
+  <filter fcc="/XVID/" name="XviD Decoder" files="XviD.ax" clsid="{64697678-0000-0010-8000-00AA00389B71}" priority="0"/>
+ </VIDEODECODERS>
+</FILTERBASE>

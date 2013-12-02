@@ -1,0 +1,42 @@
+
+	Unsupported / partially supported container formats and file extensions
+
+	* =  already supported formats, but file extesion is not in associations list
+
+---------------------------------------------------------------------------------------------------------
+Prototype FCC	extensions			description
+-------------	-------------------------	-----------
+/ video
+-------------
+
+AMV		.amv .mtv			AMV
+BIK		.bik				Bink Video
+EVO		.evo				Enhanced VOB
+F4V		.f4v				Flash MP4 Video File
+GVI		.gvi				Google Video File
+HDQT		.hdmov				QuickTime HD Movie File
+MK3D		.mk3d				Matroska 3D stereoscopic video file
+MPV2		.mpv2				Apple MPEG-2 Video Stream
+MQV		.mqv				Sony Movie Format File
+NSV		.nsv				Nullsoft Streaming Video File
+TP		.tp				Beyond TV Transport Stream File
+IVF		.ivf				Indeo Video File
+
+/ audio
+-------------
+A52		.a52				Dolby Digital Audio File
+ALAC		.alac				Apple Lossless Audio Codec
+AMR		.amr			 	Adaptive Multi-rate
+DTS		.dts				Digital Theater System
+M4P		.m4p				iTunes Music Store Audio File
+NSA		.nsa				Nullsoft Streaming Audio File
+OFR		.ofr				OptimFROG Audio File
+SPX		.spx				Ogg Vorbis Speex File
+TTA		.tta				True Audio File
+
+---------------------------------------------------------------------------------------------------------
+playlists	extensions			description
+-------------	----------			-----------
+ ?		.m3u8				WinAMP Playlist
+
+---------------------------------------------------------------------------------------------------------

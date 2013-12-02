@@ -1,0 +1,10 @@
+*.xml
+<PLAYLIST>
+%EntryStart% <FILE>
+  <NO>%No%</NO>
+  <FILENAME>%FileName%</FILENAME>
+  <DURATION>%Duration%</DURATION>
+  <ARTIST>%Artist%</ARTIST>
+  <TITLE>%Title%</TITLE>
+ </FILE>
+%EntryEnd%</PLAYLIST>

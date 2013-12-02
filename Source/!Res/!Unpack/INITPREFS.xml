@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<APP name="Light Alloy" version="4.4" build="1229">
+ <FrontEnd PanelsState="1" Home_btnOnly="0" SaveWindowSize="1" RememberPanelsState="2" AlwaysWindowCaption="0" ShowHints="1" ShowBookmarks="1" MinimizeToTray="0" Sticky="1" Language="Russian" MediaDir="C:\" MultiInstance="0" Mute="0" NeverFullScrCaption="0" ReversePlayTime="0" Skin=" &lt;GI&gt; " StayOnTop="0" DoNotAcrossWorkArea="0" LargeFontTimeLine="1" HideLogo="1" AllowCovers="1" FastScreenShots="0" ShutDownTimer="30">
+  <Pos Bottom="593" Left="450" Right="830" Top="372"/>
+  <Skin Hue="0" Random="0"/>
+ </FrontEnd>
+ <Video CreateRelatedDirectoryName="0" StayOnTopInFullScreenMode="1" SpeedPlayRate="13" AspectRatioForced="0" AspectRatio="0" AspectRatioCustom="47:20" ChangeResolution="0" ForceOverlay="0" VideoProcessor="1" HardwareProcessing="0" VideoRenderer="0" KeyFrameSeek="0" OnTopWhilePlay="0">
+  <ChangeResolution Width="640" Height="480" Depth="16"/>
+ </Video>
+ <Media Cache="2048" Settings="2048" MinMediaDur="15"/>
+ <Seek KeyFrameSeek="1" KeySeek="10" KeyJump="60"/>
+ <Sound DefaultStream="0" FirstStreamSolo="1" Volume="85" AddSound="1" Force44="0" VolumeMaster="0" VolumeWave="0" OutDevice="Default DirectSound Device">
+  <Equalizer Enabled="0" Amplify="0" Band0="0" Band1="0" Band2="0" Band3="0" Band4="0" Band5="0" Band6="0" Band7="0" Band8="0" Band9="0"/>
+  <Normalization Enabled="0" MaxAmp="10"/>
+ </Sound>
+ <Mouse TimeOut="1" Left="4" LeftDbl="2" Middle="0" Right="0" Wheel="0" WheelInvert="0" HoverCPanel="1" Additional="2"/>
+ <OnStart Center="1" Resize="1" Maximize="0" AlwaysPrMonitor="0"/>
+ <OnOpen Resize="1" Play="1" Center="1" FullScreen="0" HidePanels="0" ApplySettings="1" SeekLastPos="1" Popup="1" CoverResize="0" CoverCenter="0" AutoSeek="1" SearchForSimilarFiles="1"/>
+ <OSD ShowPositionOnPause="0" ShowTotalTimeOnSeek="0" InfoStr="{ARTIST}\r\n{TITLE}" WithVideo="0" ShowSize="0">
+  <Info Show="1" Duration="2" Pos="1" AlertMsg="1" UseSkinColors="0">
+   <Font Charset="1" Family="Arial" Size="16" Color="14539042" Bold="1"/>
+  </Info>
+  <Subs Folder="C:\"/>
+  <BG IsColor="0" Color="0"/>
+ </OSD>
+ <Subtitles SetMicroDVDFPS="1" MicroDVDFPS="25,00" Font="Tahoma" Size="16" Charset="1" Color="65535" ShadowColor="0" Text="Light Alloy forever" Offset="0,00" AutoLoad="0" Pos1="5" Pos2="75" Bold="0" UseFolder="0" Folder=""/>
+ <Command c050="F3|" c051="Ctrl+I|" c052="I|i" c053="U|" c100="Alt+Q|Stop" c101="X|Play" c102="Space|Call" c103="Ctrl+X|" c104="F9|" c105="V|" c150="Ctrl+Right|" c151="Ctrl+Left|" c152="Right|&gt;" c153="Left|&lt;" c154="Shift+Right|&gt;&gt;" c155="Shift+Left|&lt;&lt;" c156="BkSp|&lt;-" c157="B|" c158="O|" c159="L|" c160="Alt+R|" c200="`|Menu" c201="P|-/-" c202="Enter|Screen" c203="Home|-&gt;0&lt;-" c204="A|" c205="End|" c206="|" c250="PageDown|Down" c251="PageUp|Up" c252="|" c253="Insert|" c254="Shift+Insert|" c255="Delete|" c256="Shift+Delete|" c257="F2|" c258="Ctrl+Up|" c259="Ctrl+Down|" c260="Ctrl+S|" c261="Ctrl+Home|" c262="Ctrl+R|" c263="R|" c264="\|" c265="Ctrl+J|" c266="Ctrl+F|" c267="F8|" c268="Shift+R|" c269="Shift+V|" c270="Shift+M|" c300="Ctrl+V|" c301="F12|" c302="Alt+1|" c303="Alt+2|" c304="Alt+3|" c305="Shift+1|" c306="Shift+2|" c307="Shift+3|" c308="Shift+4|" c309="Shift+5|" c310="Shift+6|" c311="Shift+7|" c312="=|Z+" c313="-|Z-" c314="NP+|BR+" c315="NP-|BR-" c316="Ctrl+NP+|CO+" c317="Ctrl+NP-|CO-" c318="Alt+NP+|SA+" c319="Alt+NP-|SA-" c350="Alt+S|" c351="S|" c352="Shift+S|" c353="Shift+Up|" c354="Shift+Down|" c355="Ctrl+,|" c356="Ctrl+.|" c357="Shift+/|" c400="Ctrl+A|" c401="Up|V+" c402="Down|V-" c403="Ctrl+M|" c404="Alt+A|" c450="F10|" c451="F1|" c452="Ctrl+F1|" c453="Esc|Power" c454="|" c455="|" c207="Alt+P|" c405="/|*" c502="Alt+F3|" c320="|" c321="Ctrl+F12|" c456="|" c457="H|" c458="Ctrl+P|" c500="F7|" c501="M|"/>
+ <Config ActivePage="0"/>
+ <Core HighPriority="0" AllowDownloadFilters="0" FirstRequest="1" SaveFilterPriorities="0" RemoteBaseURL="http://light-alloy.ru/filters/" NotifyNewVerAvailable="0" SCBufSize="150" SCPreBufSize="300"/>
+ <OnMinimize RestorePlayback="1" Pause="0"/>
+ <Playlist ShuffleOn="0" PlayPos="-1" EraseOnExit="0" AddInsteadReplacing="0" InternalPlaylistWidth="143" OnPlayListEnd="0" Repeat="0" ShowBookmarks="0" ShowNumbers="1" ShowDuration="0" UseSkinColor="1" External="0" Pos="436,267" Size="407,490" SelectionColor="6579300" BackgroundColor="0" ReportDir="C:\" Separator=" - " GetNamesFromFileTags="1" AddDoublet="0" RepeatOneFile="0" FastIndex="1" RepeatFileColor="clYellow" Centered="0">
+  <Font Name="Arial" Size="11" Charset="1" Color="12632256" Bold="0"/>
+  <OpenState Enabled="1" wasClosed="1"/>
+ </Playlist>
+ <Plugin DirectShow=""/>
+ <WinAMP Emulate="0"/>
+ <FileTypes Icons="XP lite">
+  <EXT id="LAP" type="P" desc="Light Alloy Playlist"/>
+  <EXT id="AVI" type="V" desc="Audio-Video Interleaved"/>
+  <EXT id="MP3" type="A" desc="Audio MPEG1 Layer-3"/>
+  <EXT id="OGM" type="V" desc="Ogg Media"/>
+  <EXT id="OGX" type="V" desc="Ogg Media"/>
+  <EXT id="OGV" type="V" desc="Ogg Video"/>
+  <EXT id="OGA" type="A" desc="Ogg Audio"/>
+  <EXT id="OGG" type="A" desc="Ogg Audio"/>
+  <EXT id="WAV" type="A" desc="Windows Wave PCM Audio"/>
+  <EXT id="WAVE" type="A" desc="Windows Wave PCM Audio"/>
+  <EXT id="WV" type="A" desc="WavePack Audio"/>
+  <EXT id="IFO" type="P" desc="DVD Index File"/>
+  <EXT id="MPLS" type="P" desc="Blu-ray Movie Playlist File"/>
+  <EXT id="BDMV" type="P" desc="Blu-ray Information File"/>
+  <EXT id="M3U" type="P" desc="WinAMP Advanced Playlist"/>
+  <EXT id="MPG" type="V" desc="Moving Picture Experts Group"/>
+  <EXT id="ASX" type="P" desc="Advanced Streaming Index"/>
+  <EXT id="LST" type="P" desc="Plain Files List"/>
+  <EXT id="PLS" type="P" desc="WinAMP Playlist"/>
+  <EXT id="MKV" type="V" desc="Matroska Video"/>
+  <EXT id="MKA" type="A" desc="Matroska Audio"/>
+  <EXT id="3GP" type="V" desc="Third Generation Platform"/>
+  <EXT id="3G2" type="V" desc="Third Generation Platform"/>
+  <EXT id="3GP2" type="V" desc="Third Generation Platform"/>
+  <EXT id="3GPP" type="V" desc="Third Generation Platform"/>
+  <EXT id="K3G" type="V" desc="Third Generation Platform"/>
+  <EXT id="MOV" type="V" desc="Quick Time Movie"/>
+  <EXT id="MP4" type="V" desc="MPEG-4"/>
+  <EXT id="M4V" type="V" desc="MPEG-4 Video"/>
+  <EXT id="M4A" type="A" desc="MPEG-4 Audio"/>
+  <EXT id="M4B" type="A" desc="MPEG-4 Audio Book"/>
+  <EXT id="ASF" type="V" desc="Advanced Streaming Format"/>
+  <EXT id="DIVX" type="V" desc="AVI file compressed with DIVX coder"/>
+  <EXT id="M1V" type="V" desc="MPEG1 only video"/>
+  <EXT id="M2V" type="V" desc="MPEG2 only video"/>
+  <EXT id="MP2V" type="V" desc="Moving Picture Experts Group"/>
+  <EXT id="MPE" type="V" desc="Moving Picture Experts Group"/>
+  <EXT id="MPEG" type="V" desc="Moving Picture Experts Group"/>
+  <EXT id="MPV" type="V" desc="Moving Picture Experts Group"/>
+  <EXT id="QT" type="V" desc="Quick Time Movie"/>
+  <EXT id="FLV" type="V" desc="Flash Video"/>
+  <EXT id="AAC" type="A" desc="Advanced Audio Coding"/>
+  <EXT id="APE" type="A" desc="Monkey’s Audio"/>
+  <EXT id="AT3" type="A" desc="Adaptive Transform Acoustic Coding"/>
+  <EXT id="OMA" type="A" desc="OpenMG Audio (ATRAC3)"/>
+  <EXT id="FLAC" type="A" desc="Free Lossless Audio Codec"/>
+  <EXT id="RAM" type="A" desc="RealMedia"/>
+  <EXT id="RM" type="V" desc="RealMedia"/>
+  <EXT id="RMVB" type="V" desc="RealMedia and Video"/>
+  <EXT id="RV" type="V" desc="RealVideo"/>
+  <EXT id="VOB" type="V" desc="DVD Video Object"/>
+  <EXT id="WEBM" type="V" desc="WebM Container"/>
+  <EXT id="WM" type="V" desc="Windows Media"/>
+  <EXT id="WMA" type="A" desc="Windows Media Audio"/>
+  <EXT id="WMV" type="V" desc="Windows Media Video"/>
+  <EXT id="CDA" type="A" desc="CD Audio"/>
+  <EXT id="CUE" type="P" desc="CUE Sheet"/>
+  <EXT id="DAT" type="V" desc="MPEG movie on VCD or SVCD"/>
+  <EXT id="TS" type="V" desc="MPEG Transport Stream"/>
+  <EXT id="MTS" type="V" desc="MPEG Transport Stream"/>
+  <EXT id="M2TS" type="V" desc="MPEG Transport Stream"/>
+  <EXT id="AIF" type="A" desc="Apple Audio"/>
+  <EXT id="AIFC" type="A" desc="Apple Audio"/>
+  <EXT id="AIFF" type="A" desc="Apple Audio"/>
+  <EXT id="AC3" type="A" desc="Dolby AC3 Sound"/>
+  <EXT id="AU" type="A" desc="Sun Audio"/>
+  <EXT id="KAR" type="A" desc="Karaoke (MIDI)"/>
+  <EXT id="MID" type="A" desc="Musical Interface Digital Instruments"/>
+  <EXT id="MIDI" type="A" desc="Musical Interface Digital Instruments"/>
+  <EXT id="MP1" type="A" desc="Audio MPEG1 Layer-1"/>
+  <EXT id="MP2" type="A" desc="Audio MPEG1 Layer-2"/>
+  <EXT id="MPA" type="A" desc="Audio MPEG"/>
+  <EXT id="MPC" type="A" desc="Musepack"/>
+  <EXT id="MOD" type="A" desc="Tracker Module"/>
+  <EXT id="STM" type="A" desc="Scream Tracker Module"/>
+  <EXT id="S3M" type="A" desc="Scream Tracker 3 Module"/>
+  <EXT id="XM" type="A" desc="Fast Tracker Module"/>
+  <EXT id="IT" type="A" desc="Impulse Tracker Module"/>
+  <EXT id="RA" type="A" desc="RealAudio"/>
+  <EXT id="RMI" type="A" desc="MIDI"/>
+  <EXT id="SND" type="A" desc="Sun Audio"/>
+ </FileTypes>
+ <Plugins>
+  <CPUUsage Enabled="0"/>
+ </Plugins>
+ <App IsMultiUser="0" UserPrefs="1" ScreenShotDir="" ShowExceptions="0" ScreenShotJPEG="1"/>
+ <Modules>
+  <GlobalKeys Enabled="0" MMKeys="1" AltMode="0"/>
+  <DirectShow FastRender="0" LocalFiltersPriority="0" DisableSubs="0" ForceFilters="" ExposeGraph="0"/>
+  <AviSynth Enabled="0" Script="BlockBuster.avs"/>
+  <WinLIRC Enabled="0" Server="127.0.0.1" Port="8765" RepeatDelay="1" AutoStop="0" AutoLoad="0" ShowUnhandled="0" RepeatDelayValue="50">
+   <Sound Enabled="0" Volume="0"/>
+   <Server Path=""/>
+  </WinLIRC>
+  <Stub Enabled=""/>
+ </Modules>
+ <GlobalKeys>
+  <Keys Command="c102" Key="Ctrl+Alt+Space" MMkey="Play/Pause"/>
+  <Keys Command="c152" Key="Ctrl+Alt+Right" MMkey=""/>
+  <Keys Command="c153" Key="Ctrl+Alt+Left" MMkey=""/>
+  <Keys Command="c154" Key="Ctrl+Shift+Right" MMkey=""/>
+  <Keys Command="c155" Key="Ctrl+Shift+Left" MMkey=""/>
+  <Keys Command="c401" Key="Ctrl+Alt+Up" MMkey="Vol+"/>
+  <Keys Command="c402" Key="Ctrl+Alt+Down" MMkey="Vol-"/>
+  <Keys Command="c403" Key="Ctrl+Alt+M" MMkey="Mute"/>
+  <Keys Command="c251" Key="Ctrl+Alt+PageUp" MMkey="Prev"/>
+  <Keys Command="c250" Key="Ctrl+Alt+PageDown" MMkey="Next"/>
+  <Keys Command="c205" Key="Ctrl+Alt+End" MMkey=""/>
+  <Keys Command="c459" Key="Alt+`" MMkey=""/>
+ </GlobalKeys>
+ <Last SeekPos="0" PlayListIdx="-1" FileName=""/>
+ <OnDone Rewind="1"/>
+</APP>
