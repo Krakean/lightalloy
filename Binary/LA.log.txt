@@ -1,0 +1,1 @@
+To enable logging, remove ".txt" extension.
