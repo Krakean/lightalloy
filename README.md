@@ -24,8 +24,8 @@ Features
 Some screenshots
 ----------------
 
-![Image of Main Window](http://light-alloy.ru/images/old/la44_mainwindow.png)
-![Image of Preferences Window](http://light-alloy.ru/images/old/la44_prefs.png)
+![Image of Main Window](http://light-alloy.ru/img/old/la44_mainwindow.png)
+![Image of Preferences Window](http://light-alloy.ru/img/old/la44_prefs.png)
 
 Pre-compiled version
 --------------------
