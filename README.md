@@ -21,17 +21,23 @@ Features
 * WinLIRC support
 * and so on...
 
+Some screenshots
+----------------
+
+![Image of Main Window](http://light-alloy.ru/images/old/la44_mainwindow.png)
+![Image of Preferences Window](http://light-alloy.ru/images/old/la44_prefs.png)
+
 Pre-compiled version
 --------------------
 
 Binaries can be found in Binary folder.
 
-Or you can download it directly from official web-site: http://light-alloy.ru, but there you will find only the modern Light Alloy, not the classic one which is present here.
+Or you can download them somewhere in the internet, becase on official web-site - http://light-alloy.ru - you will find only the modern Light Alloy, not the classic one which is present here.
 
 How to compile
 --------------
 
-To compile Light Alloy from source code you will need plain Borland Delphi 7 (compile with any other version is impossible), without any VLC/RTL customizations.
+To compile Light Alloy from source code you will need plain Borland Delphi 7 (compile with any other version is impossible), without any VLC/RTL customizations. This restriction is forced due to reason that source code of a few files has been lost, and only .dcu of these files are present.
 
 No custom components required.
 
@@ -52,6 +58,6 @@ There are a lot of open source media players for Windows. But mostly all of them
 Contact information
 -------------------
 
-1. E-mail : vortex at light-alloy.ru
+1. E-mail : vortex at verona.im
 2. Skype  : internat1onale (for those who prefer IM kind of messaging)
 3. Forum  : http://www.light-alloy.ru/forum/ru_light_alloy_source_code/ (post in English or Russian, please)
