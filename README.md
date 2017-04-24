@@ -1,7 +1,7 @@
 Light Alloy
 ==========
 
-Media player for Windows written in Borland Delphi 7 (http://light-alloy.ru)
+Media player for Windows written in Borland Delphi 7 (http://light-alloy.verona.im)
 
 Features
 --------
@@ -33,7 +33,7 @@ Pre-compiled version
 
 Binaries can be found in Binary folder.
 
-Or you can download them somewhere in the internet, becase on official web-site - http://light-alloy.ru - you will find only the modern Light Alloy, not the classic one which is present here.
+Or you can download them somewhere in the internet, because on official web-site - http://light-alloy.verona.im - you will find only the modern Light Alloy, not the classic one which is present here.
 
 How to compile
 --------------
@@ -61,4 +61,4 @@ Contact information
 
 1. E-mail : vortex at verona.im
 2. Skype  : internat1onale (for those who prefer IM kind of messaging)
-3. Forum  : http://www.light-alloy.ru/forum/ru_light_alloy_source_code/ (post in English or Russian, please)
+3. Forum  : http://light-alloy.verona.im/forum/ru_light_alloy_source_code/ (post in English or Russian, please)
